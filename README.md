@@ -1,9 +1,12 @@
-<h1 align="center">Oi 👽, Eu sou o ISAC JUNIOR</h1>
-<h3 align="center">Um Engenheiro se aventurando pelo mundo da programação</h3>
+<h1 align="center">Oi 👽, Eu sou o ISAC SC JUNIOR</h1>
+<h3 align="center">Analista de Dados | Python | BI | Dashboard | Cientista de Dados | Machine Learning | C# | Controle e Automação  </h3>
 
+🧑‍💼 Hoje trabalho como prestador de serviço para ZOIT, empresa especializada em equipamentos controle de acesso
+
+Sou engenheiro de Controle e automação e estudo avidamente Ciância de Dados 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaccjr&label=Visualiza%C3%A7%C3%B5es&color=fbda04&style=plastic" alt="isaccjr" /> </p>
 
-- 🌱 Eu estou aprendendo **C#, .NET**, Ciência de Dados 
+- 🌱 Eu estou aprendendo **C#, .NET**, Ciência de Dados (acho que nunca vou para 🤓 
 
 - 💬 Me pergunte sobre **🐍 Python, 🐼 Pandas**
 
