@@ -1,18 +1,32 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaccjr&label=Visualiza%C3%A7%C3%B5es&color=fbda04&style=plastic" alt="isaccjr" /> </p>
 <h1 align="center">Oi 👽, Eu sou o ISAC SC JUNIOR</h1>
-<h3 align="center">Analista de Dados | Python | BI | Dashboard | Cientista de Dados | Machine Learning | C# | Controle e Automação  </h3>
+🔧 Engenheiro de Controle e Automação | Aspirante a Cientista de Dados
+
+Olá! Sou um Engenheiro de Controle e Automação em transição para o mundo fascinante da Ciência de Dados e Análise de Dados. Minha jornada tem sido impulsionada pela curiosidade e pela paixão por transformar dados em decisões estratégicas.
+
+Competências:
+
+**🐍 Python
+
+📊 Análise Estatística
+
+🐼 Pandas
+
+🤖 Machine Learning 
+
+🔍 PySpark 
+
+🗃️ SQL
+
+📈 Power BI
+
+📑 Excel
+
+Estou animado para colaborar em projetos inovadores que desafiem os limites do que podemos alcançar com dados. Vamos construir algo incrível juntos!
 
 🧑‍💼 Hoje trabalho como prestador de serviço para ZOIT, empresa especializada em equipamentos controle de acesso
 
-Sou engenheiro de Controle e automação e estudo avidamente Ciância de Dados 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaccjr&label=Visualiza%C3%A7%C3%B5es&color=fbda04&style=plastic" alt="isaccjr" /> </p>
 
-- 🌱 Eu estou aprendendo **C#, .NET**, Ciência de Dados (acho que nunca vou para 🤓 
-
-- 💬 Me pergunte sobre **🐍 Python, 🐼 Pandas**
-
-- 📫 Como entrar em contato **isacscjr@gmail.com**
-
-- ⚡ Curisidades sobre mim **faço artesanato**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
