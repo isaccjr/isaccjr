@@ -1,12 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaccjr&label=Visualiza%C3%A7%C3%B5es&color=fbda04&style=plastic" alt="isaccjr" /> </p>
 <h1 align="center">Oi 👽, Eu sou o ISAC SC JUNIOR</h1>
-🔧 Engenheiro de Controle e Automação | Aspirante a Cientista de Dados
+🎲  Data Scientist | 📊 Data Analist  | 🤖Automation and Control Engineer💻| History Geek 📖 
 
 Olá! Sou um Engenheiro de Controle e Automação em transição para o mundo fascinante da Ciência de Dados e Análise de Dados. Minha jornada tem sido impulsionada pela curiosidade e pela paixão por transformar dados em decisões estratégicas.
 
 Competências:
 
-**🐍 Python
+🐍 Python
 
 📊 Análise Estatística
 
